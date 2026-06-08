@@ -1,0 +1,15 @@
+# Credentials — never commit
+.env
+
+# State file if kept locally
+state.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+dist/
+*.egg-info/
+
+# State file if kept locally
+state.json

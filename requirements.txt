@@ -1,0 +1,4 @@
+requests>=2.31.0
+
+# Optional: auto-load a .env file without exporting vars manually
+# python-dotenv>=1.0.0
